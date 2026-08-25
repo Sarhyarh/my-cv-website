@@ -1,7 +1,7 @@
 # Fundani Yandisa Zondo - Professional CV
 
 # URL for the CV
-- **link** http://my-prof-cv.s3-website.eu-north-1.amazonaws.com
+- **link** http://fyzondo-cv.s3-website.af-south-1.amazonaws.com
 
 ## Overview
 This is a static website showcasing my professional CV, hosted on AWS S3 and version-controlled via GitHub.
